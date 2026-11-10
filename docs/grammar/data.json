@@ -1,0 +1,371 @@
+{
+  "items": [
+    {
+      "id": "G01",
+      "module": "grammar",
+      "skill": "present_simple",
+      "type": "choice",
+      "level": 1,
+      "prompt": "Every school day, Mei ___ to school.",
+      "choices": [
+        "walk",
+        "walks",
+        "walked"
+      ],
+      "answer": 1,
+      "hint": "Think about a repeated habit and the subject.",
+      "explanation": "Mei is singular. Use walks for a present habit."
+    },
+    {
+      "id": "G02",
+      "module": "grammar",
+      "skill": "present_simple",
+      "type": "choice",
+      "level": 1,
+      "prompt": "My brother ___ not like spicy food.",
+      "choices": [
+        "do",
+        "does",
+        "did"
+      ],
+      "answer": 1,
+      "hint": "This describes his usual preference.",
+      "explanation": "Use does not with a singular third-person subject."
+    },
+    {
+      "id": "G03",
+      "module": "grammar",
+      "skill": "present_simple",
+      "type": "choice",
+      "level": 1,
+      "prompt": "Our lessons ___ at nine every morning.",
+      "choices": [
+        "starts",
+        "started",
+        "start"
+      ],
+      "answer": 2,
+      "hint": "The subject is plural.",
+      "explanation": "Lessons is plural, so use start."
+    },
+    {
+      "id": "G04",
+      "module": "grammar",
+      "skill": "past_simple",
+      "type": "choice",
+      "level": 1,
+      "prompt": "Yesterday, we ___ the science museum.",
+      "choices": [
+        "visit",
+        "visited",
+        "have visited"
+      ],
+      "answer": 1,
+      "hint": "Yesterday identifies a finished past time.",
+      "explanation": "Use visited for this completed event."
+    },
+    {
+      "id": "G05",
+      "module": "grammar",
+      "skill": "past_simple",
+      "type": "choice",
+      "level": 1,
+      "prompt": "Last night, Sam did not ___ his bag.",
+      "choices": [
+        "packed",
+        "packs",
+        "pack"
+      ],
+      "answer": 2,
+      "hint": "The auxiliary did already marks past tense.",
+      "explanation": "Use the base form pack after did not."
+    },
+    {
+      "id": "G06",
+      "module": "grammar",
+      "skill": "past_simple",
+      "type": "choice",
+      "level": 1,
+      "prompt": "Two days ago, I ___ my library card.",
+      "choices": [
+        "lose",
+        "lost",
+        "have lost"
+      ],
+      "answer": 1,
+      "hint": "The event happened at a specified past time.",
+      "explanation": "Lost is the past form of lose."
+    },
+    {
+      "id": "G07",
+      "module": "grammar",
+      "skill": "present_perfect",
+      "type": "choice",
+      "level": 1,
+      "prompt": "I started living here in 2022 and still live here. I ___ here since 2022.",
+      "choices": [
+        "lived",
+        "have lived",
+        "am living"
+      ],
+      "answer": 1,
+      "hint": "The situation continues to the present.",
+      "explanation": "Have lived connects the past starting point with now."
+    },
+    {
+      "id": "G08",
+      "module": "grammar",
+      "skill": "present_perfect",
+      "type": "choice",
+      "level": 1,
+      "prompt": "We are still waiting. The bus ___ yet.",
+      "choices": [
+        "did not arrive yesterday",
+        "has not arrived",
+        "does not arrived"
+      ],
+      "answer": 1,
+      "hint": "Yet refers to the situation up to now.",
+      "explanation": "Has not arrived describes an expected event that has not happened up to now."
+    },
+    {
+      "id": "G09",
+      "module": "grammar",
+      "skill": "present_perfect",
+      "type": "choice",
+      "level": 1,
+      "prompt": "I cannot find my keys now. I ___ them.",
+      "choices": [
+        "have lost",
+        "lose every day",
+        "was lose"
+      ],
+      "answer": 0,
+      "hint": "The past event has a present result.",
+      "explanation": "Have lost connects losing the keys with the current problem."
+    },
+    {
+      "id": "G10",
+      "module": "grammar",
+      "skill": "since_for",
+      "type": "choice",
+      "level": 1,
+      "prompt": "I have known Asha ___ three years.",
+      "choices": [
+        "since",
+        "for",
+        "when"
+      ],
+      "answer": 1,
+      "hint": "Three years is a duration.",
+      "explanation": "Use for with a length of time."
+    },
+    {
+      "id": "G11",
+      "module": "grammar",
+      "skill": "since_for",
+      "type": "choice",
+      "level": 1,
+      "prompt": "Leo has lived here ___ January.",
+      "choices": [
+        "for",
+        "when",
+        "since"
+      ],
+      "answer": 2,
+      "hint": "January identifies the starting point.",
+      "explanation": "Use since with a starting point."
+    },
+    {
+      "id": "G12",
+      "module": "grammar",
+      "skill": "since_for",
+      "type": "choice",
+      "level": 1,
+      "prompt": "I lived in Macau ___ two years, then moved to Hong Kong.",
+      "choices": [
+        "since",
+        "for",
+        "when"
+      ],
+      "answer": 1,
+      "hint": "The duration is complete in the past.",
+      "explanation": "For can accompany past simple. It does not require present perfect."
+    },
+    {
+      "id": "G13",
+      "module": "grammar",
+      "skill": "past_continuous",
+      "type": "choice",
+      "level": 1,
+      "prompt": "At eight last night, I was in the middle of my homework. I ___ it.",
+      "choices": [
+        "did every day",
+        "was doing",
+        "have done"
+      ],
+      "answer": 1,
+      "hint": "Focus on an activity in progress at that past time.",
+      "explanation": "Was doing presents the ongoing activity."
+    },
+    {
+      "id": "G14",
+      "module": "grammar",
+      "skill": "past_continuous",
+      "type": "choice",
+      "level": 1,
+      "prompt": "The phone rang while we ___ dinner.",
+      "choices": [
+        "were eating",
+        "eat",
+        "have eaten"
+      ],
+      "answer": 0,
+      "hint": "Dinner was in progress when another event occurred.",
+      "explanation": "Were eating gives the background activity."
+    },
+    {
+      "id": "G15",
+      "module": "grammar",
+      "skill": "past_continuous",
+      "type": "choice",
+      "level": 1,
+      "prompt": "When the lights went out, Mum ___ a book.",
+      "choices": [
+        "was reading",
+        "reads every evening",
+        "has read"
+      ],
+      "answer": 0,
+      "hint": "The reading was already in progress.",
+      "explanation": "Was reading describes the ongoing action interrupted by the power cut."
+    },
+    {
+      "id": "G16",
+      "module": "grammar",
+      "skill": "when_sequence",
+      "type": "choice",
+      "level": 1,
+      "prompt": "I arrived home, and then I opened the window. When I ___ home, I opened the window.",
+      "choices": [
+        "arrived",
+        "was arrive",
+        "have arriving"
+      ],
+      "answer": 0,
+      "hint": "These are successive completed events.",
+      "explanation": "When can connect two past-simple events."
+    },
+    {
+      "id": "G17",
+      "module": "grammar",
+      "skill": "when_sequence",
+      "type": "choice",
+      "level": 1,
+      "prompt": "The doorbell interrupted my homework. I ___ when it rang.",
+      "choices": [
+        "do homework every day",
+        "was doing my homework",
+        "have done homework tomorrow"
+      ],
+      "answer": 1,
+      "hint": "Which action was already in progress?",
+      "explanation": "Past continuous gives the background. Rang gives the interrupting event."
+    },
+    {
+      "id": "G18",
+      "module": "grammar",
+      "skill": "when_sequence",
+      "type": "choice",
+      "level": 1,
+      "prompt": "Choose the sentence showing two successive completed events.",
+      "choices": [
+        "When I arrived, I took off my coat.",
+        "When I arrived, I was taking off my coat.",
+        "When I arriving, I took off my coat."
+      ],
+      "answer": 0,
+      "hint": "The arrival happened first.",
+      "explanation": "Arrived and took describe the intended sequence. The continuous alternative changes the time relationship."
+    },
+    {
+      "id": "G19",
+      "module": "grammar",
+      "skill": "present_simple",
+      "type": "text",
+      "level": 2,
+      "prompt": "Every day, she ___ (read) for pleasure.",
+      "accepted": [
+        "reads"
+      ],
+      "hint": "Use a singular present-tense verb.",
+      "explanation": "She reads expresses a habit."
+    },
+    {
+      "id": "G20",
+      "module": "grammar",
+      "skill": "past_simple",
+      "type": "text",
+      "level": 2,
+      "prompt": "Last Saturday, we ___ (go) to the beach.",
+      "accepted": [
+        "went"
+      ],
+      "hint": "Go has an irregular past form.",
+      "explanation": "Went is the past simple of go."
+    },
+    {
+      "id": "G21",
+      "module": "grammar",
+      "skill": "present_perfect",
+      "type": "text",
+      "level": 2,
+      "prompt": "I ___ (know) Ben since we were six. We are still friends.",
+      "accepted": [
+        "have known",
+        "'ve known"
+      ],
+      "hint": "The relationship continues now.",
+      "explanation": "Have known describes the continuing situation."
+    },
+    {
+      "id": "G22",
+      "module": "grammar",
+      "skill": "since_for",
+      "type": "text",
+      "level": 2,
+      "prompt": "I have waited ___ twenty minutes.",
+      "accepted": [
+        "for"
+      ],
+      "hint": "Use a duration expression.",
+      "explanation": "For introduces a length of time."
+    },
+    {
+      "id": "G23",
+      "module": "grammar",
+      "skill": "past_continuous",
+      "type": "text",
+      "level": 2,
+      "prompt": "I ___ (study) when the alarm rang and interrupted me.",
+      "accepted": [
+        "was studying"
+      ],
+      "hint": "The study was already in progress.",
+      "explanation": "Was studying describes the interrupted activity."
+    },
+    {
+      "id": "G24",
+      "module": "grammar",
+      "skill": "when_sequence",
+      "type": "text",
+      "level": 2,
+      "prompt": "When the bus ___ (arrive), we got on.",
+      "accepted": [
+        "arrived"
+      ],
+      "hint": "The arrival was a completed event.",
+      "explanation": "Arrived and got describe successive past events."
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "items": [
+    {
+      "id": "V01",
+      "module": "vocabulary",
+      "skill": "borrow_lend",
+      "type": "choice",
+      "level": 1,
+      "prompt": "May I ___ your dictionary? I will return it tomorrow.",
+      "choices": [
+        "borrow",
+        "lend",
+        "keep forever"
+      ],
+      "answer": 0,
+      "hint": "The speaker receives something temporarily.",
+      "explanation": "Borrow means receive something for temporary use."
+    },
+    {
+      "id": "V02",
+      "module": "vocabulary",
+      "skill": "borrow_lend",
+      "type": "choice",
+      "level": 1,
+      "prompt": "Could you ___ me your pencil?",
+      "choices": [
+        "borrow",
+        "lend",
+        "spend"
+      ],
+      "answer": 1,
+      "hint": "The other person gives something temporarily.",
+      "explanation": "Lend means give something for temporary use."
+    },
+    {
+      "id": "V03",
+      "module": "vocabulary",
+      "skill": "borrow_lend",
+      "type": "choice",
+      "level": 1,
+      "prompt": "Which sentence is correct?",
+      "choices": [
+        "I borrowed a book from Maya.",
+        "I borrowed Maya a book.",
+        "I lent a book from Maya."
+      ],
+      "answer": 0,
+      "hint": "Check the direction and preposition.",
+      "explanation": "Borrow something from someone describes receiving it."
+    },
+    {
+      "id": "V04",
+      "module": "vocabulary",
+      "skill": "say_tell",
+      "type": "choice",
+      "level": 1,
+      "prompt": "Please ___ me what happened.",
+      "choices": [
+        "say",
+        "tell",
+        "speak"
+      ],
+      "answer": 1,
+      "hint": "A person follows the verb directly.",
+      "explanation": "Tell someone something uses a direct person object."
+    },
+    {
+      "id": "V05",
+      "module": "vocabulary",
+      "skill": "say_tell",
+      "type": "choice",
+      "level": 1,
+      "prompt": "What did she ___?",
+      "choices": [
+        "tell me to",
+        "say",
+        "tell to"
+      ],
+      "answer": 1,
+      "hint": "There is no person object after the gap.",
+      "explanation": "Say can introduce the words or message without a person object."
+    },
+    {
+      "id": "V06",
+      "module": "vocabulary",
+      "skill": "say_tell",
+      "type": "choice",
+      "level": 1,
+      "prompt": "He ___ a funny story to the class.",
+      "choices": [
+        "said",
+        "told",
+        "spoke"
+      ],
+      "answer": 1,
+      "hint": "This verb commonly goes with story.",
+      "explanation": "Tell a story is the appropriate collocation."
+    },
+    {
+      "id": "V07",
+      "module": "vocabulary",
+      "skill": "make_do",
+      "type": "choice",
+      "level": 1,
+      "prompt": "I need to ___ my homework.",
+      "choices": [
+        "make",
+        "do",
+        "build"
+      ],
+      "answer": 1,
+      "hint": "Think of the usual verb with homework.",
+      "explanation": "Do homework is the usual collocation."
+    },
+    {
+      "id": "V08",
+      "module": "vocabulary",
+      "skill": "make_do",
+      "type": "choice",
+      "level": 1,
+      "prompt": "Everyone can ___ a mistake.",
+      "choices": [
+        "do",
+        "make",
+        "take"
+      ],
+      "answer": 1,
+      "hint": "Think of the usual verb with mistake.",
+      "explanation": "Make a mistake is the usual collocation."
+    },
+    {
+      "id": "V09",
+      "module": "vocabulary",
+      "skill": "make_do",
+      "type": "choice",
+      "level": 1,
+      "prompt": "Let us ___ a plan before we begin.",
+      "choices": [
+        "make",
+        "do",
+        "say"
+      ],
+      "answer": 0,
+      "hint": "The noun is plan.",
+      "explanation": "Make a plan is the usual collocation."
+    },
+    {
+      "id": "V10",
+      "module": "vocabulary",
+      "skill": "time_words",
+      "type": "choice",
+      "level": 1,
+      "prompt": "The train leaves at 10. It is 9:45 now. We are ___.",
+      "choices": [
+        "late",
+        "early",
+        "absent"
+      ],
+      "answer": 1,
+      "hint": "We arrived before the departure time.",
+      "explanation": "Early means before the expected or required time."
+    },
+    {
+      "id": "V11",
+      "module": "vocabulary",
+      "skill": "time_words",
+      "type": "choice",
+      "level": 1,
+      "prompt": "The lesson began at 9. Tom arrived at 9:20. He was ___.",
+      "choices": [
+        "early",
+        "late",
+        "ready yesterday"
+      ],
+      "answer": 1,
+      "hint": "He arrived after the start.",
+      "explanation": "Late means after the expected time."
+    },
+    {
+      "id": "V12",
+      "module": "vocabulary",
+      "skill": "time_words",
+      "type": "choice",
+      "level": 1,
+      "prompt": "Please arrive ___ time for the interview.",
+      "choices": [
+        "on",
+        "at",
+        "by"
+      ],
+      "answer": 0,
+      "hint": "Use the fixed expression for being punctual.",
+      "explanation": "On time means at the scheduled time."
+    },
+    {
+      "id": "V13",
+      "module": "vocabulary",
+      "skill": "feelings",
+      "type": "choice",
+      "level": 1,
+      "prompt": "I was ___ about speaking, so my hands shook.",
+      "choices": [
+        "nervous",
+        "delicious",
+        "empty"
+      ],
+      "answer": 0,
+      "hint": "Choose a feeling that fits the physical reaction.",
+      "explanation": "Nervous describes worry or unease."
+    },
+    {
+      "id": "V14",
+      "module": "vocabulary",
+      "skill": "feelings",
+      "type": "choice",
+      "level": 1,
+      "prompt": "After practising, she felt ___ enough to give her talk.",
+      "choices": [
+        "confident",
+        "broken",
+        "hungry"
+      ],
+      "answer": 0,
+      "hint": "The word describes belief in her ability.",
+      "explanation": "Confident means feeling able to do something."
+    },
+    {
+      "id": "V15",
+      "module": "vocabulary",
+      "skill": "feelings",
+      "type": "choice",
+      "level": 1,
+      "prompt": "He had waited an hour and felt ___.",
+      "choices": [
+        "impatient",
+        "wooden",
+        "cloudy"
+      ],
+      "answer": 0,
+      "hint": "He found further waiting difficult.",
+      "explanation": "Impatient describes difficulty waiting calmly."
+    },
+    {
+      "id": "V16",
+      "module": "vocabulary",
+      "skill": "library",
+      "type": "choice",
+      "level": 1,
+      "prompt": "You can find a word meaning in a ___.",
+      "choices": [
+        "dictionary",
+        "calendar",
+        "ticket"
+      ],
+      "answer": 0,
+      "hint": "Which reference book explains words?",
+      "explanation": "A dictionary provides word meanings and other language information."
+    },
+    {
+      "id": "V17",
+      "module": "vocabulary",
+      "skill": "library",
+      "type": "choice",
+      "level": 1,
+      "prompt": "Please ___ the book by Friday so another reader can use it.",
+      "choices": [
+        "return",
+        "invent",
+        "forget"
+      ],
+      "answer": 0,
+      "hint": "Give it back to the library.",
+      "explanation": "Return means give or take something back."
+    },
+    {
+      "id": "V18",
+      "module": "vocabulary",
+      "skill": "library",
+      "type": "choice",
+      "level": 1,
+      "prompt": "The book is due on Friday. Due means ___.",
+      "choices": [
+        "expected back by that time",
+        "already lost",
+        "very expensive"
+      ],
+      "answer": 0,
+      "hint": "Look at the deadline context.",
+      "explanation": "Due here refers to the required return date."
+    },
+    {
+      "id": "V19",
+      "module": "vocabulary",
+      "skill": "borrow_lend",
+      "type": "text",
+      "level": 2,
+      "prompt": "Type the missing word: Can you ___ me your ruler?",
+      "accepted": [
+        "lend"
+      ],
+      "hint": "You are asking someone to give it temporarily.",
+      "explanation": "Lend describes the giver action."
+    },
+    {
+      "id": "V20",
+      "module": "vocabulary",
+      "skill": "say_tell",
+      "type": "text",
+      "level": 2,
+      "prompt": "Type the missing word: Please ___ the truth.",
+      "accepted": [
+        "tell"
+      ],
+      "hint": "Use the usual verb with truth.",
+      "explanation": "Tell the truth is the standard expression."
+    },
+    {
+      "id": "V21",
+      "module": "vocabulary",
+      "skill": "make_do",
+      "type": "text",
+      "level": 2,
+      "prompt": "Type the missing word: I will ___ my best.",
+      "accepted": [
+        "do"
+      ],
+      "hint": "Think of the fixed expression.",
+      "explanation": "Do my best means try as well as I can."
+    },
+    {
+      "id": "V22",
+      "module": "vocabulary",
+      "skill": "time_words",
+      "type": "text",
+      "level": 2,
+      "prompt": "The opposite of late is ___.",
+      "accepted": [
+        "early"
+      ],
+      "hint": "Think about arriving before the start.",
+      "explanation": "Early contrasts with late."
+    },
+    {
+      "id": "V23",
+      "module": "vocabulary",
+      "skill": "feelings",
+      "type": "text",
+      "level": 2,
+      "prompt": "A person who believes they can succeed feels ___.",
+      "accepted": [
+        "confident"
+      ],
+      "hint": "The word begins with con-.",
+      "explanation": "Confident describes belief in your ability."
+    },
+    {
+      "id": "V24",
+      "module": "vocabulary",
+      "skill": "library",
+      "type": "text",
+      "level": 2,
+      "prompt": "Type the missing word: Please ___ the book to the library.",
+      "accepted": [
+        "return"
+      ],
+      "hint": "Give it back.",
+      "explanation": "Return fits the library context."
+    }
+  ]
+}
